@@ -17,7 +17,7 @@ After running the app and accessing the url (localhost:3000). You can search for
 ![jobs](images/docs.png)
 
 
-## Licensed under the [MIT](https://raw.githubusercontent.com/hasimy-as/My-Resume/master/LICENSE) License.
+## Licensed under the [MIT](https://raw.githubusercontent.com/hasimy-as/Github-Jobs/master/LICENSE) License.
 
 Happy coding!
 ~Hasimy
